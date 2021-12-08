@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 42AC-EC25
+
+ Directory of C:\Users\amitsah\Desktop\my floder
+
+12/08/2021  07:14 PM    <DIR>          .
+12/08/2021  07:14 PM    <DIR>          ..
+12/08/2021  07:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  131,535,462,400 bytes free
